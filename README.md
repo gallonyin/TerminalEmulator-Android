@@ -1,6 +1,8 @@
-#Terminal Emulator for Android
+## screenshot
+![image](https://github.com/gallonyin/TerminalEmulator-Android/blob/master/images/pic_demo1.png)
+![image](https://github.com/gallonyin/TerminalEmulator-Android/blob/master/images/pic_demo2.png)
 
-## This fork added a feature enabling floating window running the terminal
+## This fork is compatible with Android Studio3.0+
 
 Terminal Emulator for Android is a terminal emulator for communicating with the
 built-in Android shell. It emulates a reasonably large subset of Digital
